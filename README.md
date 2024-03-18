@@ -1,7 +1,7 @@
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
-To write a python program to find the distance two 2 points
+To write a python program to find the distance two  points
 ## ALGORITHM:
 ### Step 1:
 Import math function to calculate the square root value
