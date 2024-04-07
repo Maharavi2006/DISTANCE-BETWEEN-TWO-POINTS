@@ -28,8 +28,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
+![image](https://github.com/Maharavi2006/DISTANCE-BETWEEN-TWO-POINTS/assets/154535981/43e95803-d5ef-432f-8995-a0e066daa699)
 
-![image](https://github.com/Maharavi2006/DISTANCE-BETWEEN-TWO-POINTS/assets/154535981/c15ccbca-af5b-4c91-afe9-11683e1c2efa)
 
 ### RESULT:
 The output of the program has been successfully obtained.
